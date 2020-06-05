@@ -1,0 +1,16 @@
+{
+  "name": "salesforce_to_airtable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "describe": "node describe.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "jsforce": "^1.9.3"
+  }
+}
